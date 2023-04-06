@@ -16,18 +16,18 @@ sudo apt install realmd
 ```
 
 #### 2) Der Domäne joinen
-Mithilfe des folgenden Befehls fügen SIe Linux Mint der Domäne hinzu:
+Mithilfe des folgenden Befehls fügen Sie Linux Mint der Domäne hinzu:
 ```
 sudo realm join DOMAIN.NAME
 ```
 
-Der beitritt kann mit folgendem Befehl geprüft werden:
+Der Beitritt kann mit folgendem Befehl geprüft werden:
 
 ```
 realm list
 ```
 
-Geben Sie nun die Anmeldeinformationen eines Nutzers ein welcher ausreichende Berechtigungen hat um einer Domäne zu joinen.
+Geben Sie nun die Anmeldeinformationen eines Nutzers ein, welcher ausreichende Berechtigungen hat um einer Domäne zu joinen.
 
 #### 3) Automatisches erstellen eines Home Ordners
 
