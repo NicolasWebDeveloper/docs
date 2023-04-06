@@ -16,7 +16,7 @@ sudo apt install realmd
 ```
 
 #### 2) Der Domäne joinen
-Mithilfe des folgenden Befehls fügen SIe Linux Mint der DOmäne hinzu:
+Mithilfe des folgenden Befehls fügen SIe Linux Mint der Domäne hinzu:
 ```
 sudo realm join DOMAIN.NAME
 ```
@@ -31,7 +31,7 @@ Geben Sie nun die Anmeldeinformationen eines Nutzers ein welcher ausreichende Be
 
 #### 3) Automatisches erstellen eines Home Ordners
 
-Um automatisch einen Home Ornder anlegen zu lassen müssen Sie die Datei /etc/pam.d/common-session bearbeiten. Dies ist mit folgendem Befehl möglich:
+Um automatisch einen Home Ordner anlegen zu lassen müssen Sie die Datei /etc/pam.d/common-session bearbeiten. Dies ist mit folgendem Befehl möglich:
 
 ```
 sudo nano /etc/pam.d/common-session
